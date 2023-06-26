@@ -136,15 +136,21 @@ th {
     flex-direction: column;
 }
 
-@media(max-width:1000px)
+@media(max-width:630px)
 {
 .table-container {
-    height: 32vh;
+    height: 20vh;
     width: 40vw;
     margin-top: 6vh;
     /* margin-left: 5vw; */
     overflow-x:scroll;
     overflow-y: hidden;
+}
+@media(max-width:1000px)
+{
+ #leave{
+    font-size: small;
+ }   
 }
 #leave{
     width: 30vw;
