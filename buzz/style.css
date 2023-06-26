@@ -123,7 +123,7 @@ th {
 
 }
 #leave:hover{
-    box-shadow: inset 100px 70px 0 bisque;
+    box-shadow: inset 140px 100px 0 bisque;
     color: black;
 }
 #buzzer-text
