@@ -123,7 +123,7 @@ th {
 
 }
 #leave:hover{
-    box-shadow: inset 100px 40px 0 bisque;
+    box-shadow: inset 100px 70px 0 bisque;
     color: black;
 }
 #buzzer-text
@@ -157,5 +157,6 @@ th {
 {
  #leave{
     font-size:smaller;
+    margin-top: 5vh;
  }   
 }
