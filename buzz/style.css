@@ -136,7 +136,7 @@ th {
     flex-direction: column;
 }
 
-@media(max-width:636px)
+@media(max-width:616px)
 {
 .table-container {
     height: 32vh;
@@ -147,7 +147,7 @@ th {
     overflow-y: hidden;
 }
 #leave{
-    width: 20vw;
+    width: 22vw;
     margin-top: 5vh;
 }
 }
