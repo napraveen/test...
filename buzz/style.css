@@ -136,7 +136,7 @@ th {
     flex-direction: column;
 }
 
-@media(max-width:626px)
+@media(max-width:1000px)
 {
 .table-container {
     height: 32vh;
