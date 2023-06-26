@@ -146,10 +146,10 @@ th {
     overflow-x:scroll;
     overflow-y: hidden;
 }
-@media(max-width:1000px)
+@media(max-width:360px)
 {
  #leave{
-    font-size: small;
+    font-size: smaller;
  }   
 }
 #leave{
