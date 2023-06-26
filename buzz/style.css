@@ -144,7 +144,7 @@ th {
     margin-top: 6vh;
     /* margin-left: 5vw; */
     overflow-x:scroll;
-    overflow-y: hidden;
+    overflow-y: scroll;
 }
 
 #leave{
